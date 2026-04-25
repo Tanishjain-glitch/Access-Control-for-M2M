@@ -75,9 +75,3 @@ ESP8266HTTPClient.h
 ArduinoJson.h
 DHT.h
 Hash.h
-
-
-
-📝 Author
-👤 Tanish Jain
-🔗 GitHub: Tanishjain-glitch
